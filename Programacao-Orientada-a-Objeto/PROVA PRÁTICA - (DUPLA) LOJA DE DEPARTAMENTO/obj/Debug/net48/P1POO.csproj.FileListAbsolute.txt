@@ -1,0 +1,37 @@
+C:\Users\Dener Eduardo\Documents\Projetos em Antigravity\P1POO\obj\Debug\net48\P1POO.csproj.AssemblyReference.cache
+C:\Users\Dener Eduardo\Documents\Projetos em Antigravity\P1POO\obj\Debug\net48\P1POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dener Eduardo\Documents\Projetos em Antigravity\P1POO\obj\Debug\net48\P1POO.AssemblyInfoInputs.cache
+C:\Users\Dener Eduardo\Documents\Projetos em Antigravity\P1POO\obj\Debug\net48\P1POO.AssemblyInfo.cs
+C:\Users\Dener Eduardo\Documents\Projetos em Antigravity\P1POO\obj\Debug\net48\P1POO.csproj.CoreCompileInputs.cache
+C:\Users\Dener Eduardo\Documents\Projetos em Antigravity\P1POO\bin\Debug\net48\P1POO.exe.config
+C:\Users\Dener Eduardo\Documents\Projetos em Antigravity\P1POO\bin\Debug\net48\P1POO.exe
+C:\Users\Dener Eduardo\Documents\Projetos em Antigravity\P1POO\bin\Debug\net48\P1POO.pdb
+C:\Users\Dener Eduardo\Documents\Projetos em Antigravity\P1POO\obj\Debug\net48\P1POO.exe
+C:\Users\Dener Eduardo\Documents\Projetos em Antigravity\P1POO\obj\Debug\net48\P1POO.pdb
+C:\Users\Dener Eduardo\Documents\Projetos em Antigravity\P1POO\bin\Debug\net48\Resources\background.jpg
+C:\Users\Dener Eduardo\Documents\Projetos\P1POO\bin\Debug\net48\Resources\background.jpg
+C:\Users\Dener Eduardo\Documents\Projetos\P1POO\bin\Debug\net48\P1POO.exe.config
+C:\Users\Dener Eduardo\Documents\Projetos\P1POO\bin\Debug\net48\P1POO.exe
+C:\Users\Dener Eduardo\Documents\Projetos\P1POO\bin\Debug\net48\P1POO.pdb
+C:\Users\Dener Eduardo\Documents\Projetos\P1POO\obj\Debug\net48\P1POO.csproj.AssemblyReference.cache
+C:\Users\Dener Eduardo\Documents\Projetos\P1POO\obj\Debug\net48\P1POO.Views.FormPrincipal.resources
+C:\Users\Dener Eduardo\Documents\Projetos\P1POO\obj\Debug\net48\P1POO.csproj.GenerateResource.cache
+C:\Users\Dener Eduardo\Documents\Projetos\P1POO\obj\Debug\net48\P1POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dener Eduardo\Documents\Projetos\P1POO\obj\Debug\net48\P1POO.AssemblyInfoInputs.cache
+C:\Users\Dener Eduardo\Documents\Projetos\P1POO\obj\Debug\net48\P1POO.AssemblyInfo.cs
+C:\Users\Dener Eduardo\Documents\Projetos\P1POO\obj\Debug\net48\P1POO.csproj.CoreCompileInputs.cache
+C:\Users\Dener Eduardo\Documents\Projetos\P1POO\obj\Debug\net48\P1POO.exe
+C:\Users\Dener Eduardo\Documents\Projetos\P1POO\obj\Debug\net48\P1POO.pdb
+C:\Users\Dener Eduardo\Documents\Projetos\PROVA PRÁTICA - LOJA DE DEPARTAMENTO\bin\Debug\net48\Resources\background.jpg
+C:\Users\Dener Eduardo\Documents\Projetos\PROVA PRÁTICA - LOJA DE DEPARTAMENTO\bin\Debug\net48\P1POO.exe.config
+C:\Users\Dener Eduardo\Documents\Projetos\PROVA PRÁTICA - LOJA DE DEPARTAMENTO\bin\Debug\net48\P1POO.exe
+C:\Users\Dener Eduardo\Documents\Projetos\PROVA PRÁTICA - LOJA DE DEPARTAMENTO\bin\Debug\net48\P1POO.pdb
+C:\Users\Dener Eduardo\Documents\Projetos\PROVA PRÁTICA - LOJA DE DEPARTAMENTO\obj\Debug\net48\P1POO.csproj.AssemblyReference.cache
+C:\Users\Dener Eduardo\Documents\Projetos\PROVA PRÁTICA - LOJA DE DEPARTAMENTO\obj\Debug\net48\P1POO.Views.FormPrincipal.resources
+C:\Users\Dener Eduardo\Documents\Projetos\PROVA PRÁTICA - LOJA DE DEPARTAMENTO\obj\Debug\net48\P1POO.csproj.GenerateResource.cache
+C:\Users\Dener Eduardo\Documents\Projetos\PROVA PRÁTICA - LOJA DE DEPARTAMENTO\obj\Debug\net48\P1POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dener Eduardo\Documents\Projetos\PROVA PRÁTICA - LOJA DE DEPARTAMENTO\obj\Debug\net48\P1POO.AssemblyInfoInputs.cache
+C:\Users\Dener Eduardo\Documents\Projetos\PROVA PRÁTICA - LOJA DE DEPARTAMENTO\obj\Debug\net48\P1POO.AssemblyInfo.cs
+C:\Users\Dener Eduardo\Documents\Projetos\PROVA PRÁTICA - LOJA DE DEPARTAMENTO\obj\Debug\net48\P1POO.csproj.CoreCompileInputs.cache
+C:\Users\Dener Eduardo\Documents\Projetos\PROVA PRÁTICA - LOJA DE DEPARTAMENTO\obj\Debug\net48\P1POO.exe
+C:\Users\Dener Eduardo\Documents\Projetos\PROVA PRÁTICA - LOJA DE DEPARTAMENTO\obj\Debug\net48\P1POO.pdb
